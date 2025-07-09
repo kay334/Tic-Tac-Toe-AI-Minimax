@@ -54,4 +54,4 @@ This is a simple AI-powered Tic-Tac-Toe game built using **C# Windows Forms**. T
 - Designed for educational purposes to demonstrate core AI logic in C#.
 
 ---
-© 2025 TicTacToeAI_WinForms Project
+© 2025 Tic-Tac-Toe- AI Minimax Project
